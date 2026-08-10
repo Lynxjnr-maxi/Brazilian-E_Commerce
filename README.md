@@ -67,8 +67,18 @@ The seller base looks healthy. Revenue is well spread: the top 15 sellers out of
     -  During shipping → handed to carrier, but no delivery date
     -  After delivery → delivery date present despite "canceled" status — treated as a likely data/status-mapping error (some have positive reviews), not a genuine late cancellation.
        
-The SQL queries created during the database exploration and data cleaning can be found [here]
+The SQL queries created during the database exploration and data cleaning can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brazilian%20E_Commerce%20data%20cleaning%20queries.sql)
+
 The SQL queries for measures exploration like Revenue, Customer & Product performance, etc are [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brazilian%20E_Commerce%20measures%20exploration%20queries.sql)
+
+For a full view of the PowerPoint presentations that contain the snippets is [here]( https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/olist_dashboard_story%203.pptx)
+
+At the end, I created three views(Orders_View, Sellers_View, Product_View) to help in easier querying later on and in creating dashboards.
+- The [Orders_View] queries can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brzilian%20E_Commerce%20Order%20view%20queries.sql)
+- The [Sellers_View] queries can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brazilian%20E_Commerce%20seller%20view%20queries.sql)
+- The [Products_View] queries can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brazilian%20E_Commerce%20Product%20View%20queries.sql)
+
+
 
 
 
