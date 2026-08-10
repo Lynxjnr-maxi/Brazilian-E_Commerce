@@ -68,6 +68,7 @@ The seller base looks healthy. Revenue is well spread: the top 15 sellers out of
     -  After delivery → delivery date present despite "canceled" status — treated as a likely data/status-mapping error (some have positive reviews), not a genuine late cancellation.
        
 The SQL queries created during the database exploration and data cleaning can be found [here]
+The SQL queries for measures exploration like Revenue, Customer & Product performance, etc are [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brazilian%20E_Commerce%20measures%20exploration%20queries.sql)
 
 
 
