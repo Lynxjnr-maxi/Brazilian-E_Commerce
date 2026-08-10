@@ -74,9 +74,9 @@ The SQL queries for measures exploration like Revenue, Customer & Product perfor
 For a full view of the PowerPoint presentations that contain the snippets is [here]( https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/olist_dashboard_story%203.pptx)
 
 At the end, I created three views(Orders_View, Sellers_View, Product_View) to help in easier querying later on and in creating dashboards.
-- The [Orders_View] queries can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brzilian%20E_Commerce%20Order%20view%20queries.sql)
-- The [Sellers_View] queries can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brazilian%20E_Commerce%20seller%20view%20queries.sql)
-- The [Products_View] queries can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brazilian%20E_Commerce%20Product%20View%20queries.sql)
+- The [Orders_View](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/olist_order_view.csv) queries can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brzilian%20E_Commerce%20Order%20view%20queries.sql)
+- The [Sellers_View](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/olist_seller_view.csv) queries can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brazilian%20E_Commerce%20seller%20view%20queries.sql)
+- The [Products_View](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/olist_product_view.csv) queries can be found [here](https://github.com/Lynxjnr-maxi/Brazilian-E_Commerce/blob/main/Brazilian%20E_Commerce%20Product%20View%20queries.sql)
 
 
 
